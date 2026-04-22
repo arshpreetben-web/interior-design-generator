@@ -28,7 +28,7 @@ It allows users to upload an image and generate improved interior designs using 
 
 ## 📂 Project Files
 
-* interior-design-generator.ipynb
+interior_design_generator.ipynb
 
 ---
 
@@ -42,7 +42,9 @@ It allows users to upload an image and generate improved interior designs using 
 
 ## 📸 Output
 
-(Add screenshots here later)
+<img width="1668" height="807" alt="Screenshot 2026-04-22 214606" src="https://github.com/user-attachments/assets/aa1d63f5-cbf2-49d6-84af-26258bac9639" />
+
+
 
 ---
 
